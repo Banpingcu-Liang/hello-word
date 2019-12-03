@@ -1,6 +1,6 @@
 #includ<iostrteam>
 int main()
 {
-  cout<<"第一次玩github"；
+  cout<<"第一次github"；
   return 0；
 }
